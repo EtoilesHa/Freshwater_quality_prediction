@@ -1,4 +1,3 @@
-![image](https://github.com/EtoilesHa/Freshwater_quality_prediction/assets/100062637/c38ee1d7-b0e9-4147-83c0-6788be59b3d2)# Freshwater_quality_prediction
 
 ### 内容简介： 
 - 通过机器学习对输入数据进行选取，建立模型对数据进行分析，最终对淡水是否可使用做出判断；
